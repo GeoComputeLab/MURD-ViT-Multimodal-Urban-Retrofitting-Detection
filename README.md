@@ -180,11 +180,3 @@ This table can be produced by running the following notebooks and collecting cla
    - Run cells from `2. Package and Imports` to `10.1. Classification Report and Confusion Matrix`
 
 ---
-
-## ⚠️ License and Usage
-
-This repository and all associated materials are the intellectual property of **the authors**.  
-The contents are provided **for academic and research reference only**.  
-Copying, redistributing, reproducing, or using the files, models, or code in part or in whole **without prior written permission** from the author is strictly prohibited.
-
----
